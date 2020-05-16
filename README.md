@@ -24,3 +24,7 @@ public int abc() {
 public int xyz() {
     return 1;
 }
+
+public String feedback() {
+    return "Danke für das super Tutorial!";
+}

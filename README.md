@@ -20,3 +20,7 @@ Super fancy repo for git demo
 public int abc() {
     return 1;
 }
+
+public int xyz() {
+    return 1;
+}

@@ -1,6 +1,8 @@
 # GitDemo
 
-
+public int xxx() {
+    return 100;
+}
 
 public int abc() {
     return 50;

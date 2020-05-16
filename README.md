@@ -18,7 +18,7 @@ Super fancy repo for git demo
 
 
 public int abc() {
-    return 42;
+    return 50;
 }
 
 public int xyz() {

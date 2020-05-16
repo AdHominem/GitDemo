@@ -18,9 +18,13 @@ Super fancy repo for git demo
 
 
 public int abc() {
-    return 8;
+    return 50;
 }
 
 public int xyz() {
     return 1;
+}
+
+public String feedback() {
+    return "Danke für das super Tutorial!";
 }

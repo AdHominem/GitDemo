@@ -1,5 +1,10 @@
 # GitDemo
 
+public int rst(int a, int b) {
+    return a*b;
+}
+    
+    
 public int xxx() {
     int z = 6 + 5;
     z++;

@@ -8,6 +8,7 @@ public int rst(int a, int b) {
 public int xxx() {
     int z = 6 + 5;
     z++;
+    z++;
     return 100;
 }
 
